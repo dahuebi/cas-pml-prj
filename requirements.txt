@@ -2,3 +2,5 @@ cssselect
 lxml
 psycopg2
 requests
+
+jupyter
