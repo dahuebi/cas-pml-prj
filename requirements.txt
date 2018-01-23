@@ -3,5 +3,9 @@ lxml
 psycopg2
 requests
 
+numpy
+matplotlib
+panda
+
 jupyter
 ipynb
