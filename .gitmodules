@@ -1,6 +1,6 @@
 [submodule "coinmarketcap-history"]
-	path = coinmarketcap-history
+	path = ext/coinmarketcap-history
 	url = https://github.com/dahuebi/coinmarketcap-history.git
 [submodule "coinmarketcap-scraper"]
-	path = coinmarketcap-scraper
+	path = ext/coinmarketcap-scraper
 	url = https://github.com/dahuebi/coinmarketcap-scraper.git
