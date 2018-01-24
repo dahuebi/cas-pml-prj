@@ -5,7 +5,8 @@ requests
 
 numpy
 matplotlib
-panda
+pandas
 
 jupyter
 ipynb
+plotly
