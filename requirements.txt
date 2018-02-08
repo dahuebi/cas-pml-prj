@@ -3,3 +3,6 @@ lxml
 jupyter
 numpy
 pandas
+matplotlib
+ipynb
+plotly
