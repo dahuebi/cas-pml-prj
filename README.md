@@ -10,9 +10,9 @@ As data source, https://coinmarketcap.com is used.
 The project is separated in different parts. Each part has one or more python
 notebooks (NB).
 
-1. Acquire the data
+1. Acquire the data<br/>
     NB: 01_data-acquistion
-2. Preprocess the data
+2. Preprocess the data<br/>
     NB: 02_data-preprocessing
 3. TBD
 
