@@ -1,0 +1,6 @@
+cache
+__pycache__
+*.swp
+venv
+.ipynb_checkpoints
+*.csv
