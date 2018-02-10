@@ -6,3 +6,7 @@ pandas
 matplotlib
 ipynb
 plotly
+sklearn
+scipy
+statsmodels
+pyramid-arima

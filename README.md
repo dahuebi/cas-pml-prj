@@ -14,9 +14,14 @@ notebooks (NB).
     NB: 01_data-acquistion
 2. Preprocess the data<br/>
     NB: 02_data-preprocessing
-3. TBD
+3. Visualize the data<br/>
+    NB: 03_data-analysis
+4. Try some statistical forecasts methods<br/>
+    NB: 04_statistical-forecast
+5. TBD
 
-# Reference
+## Reference
 
 * https://github.com/prouast/coinmarketcap-scraper
 * https://github.com/jhogan4288/coinmarketcap-history
+* https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
