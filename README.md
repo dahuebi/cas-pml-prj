@@ -16,8 +16,8 @@ notebooks (NB).
     NB: 02_data-preprocessing
 3. Visualize the data<br/>
     NB: 03_data-analysis
-4. Try some statistical forecasts methods<br/>
-    NB: 04_statistical-forecast
+4. Try some simple forecasts methods<br/>
+    NB: 04_simple-forecast
 5. TBD
 
 ## Reference

@@ -10,3 +10,6 @@ sklearn
 scipy
 statsmodels
 pyramid-arima
+seaborn
+keras
+tensorflow
