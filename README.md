@@ -18,10 +18,10 @@ notebooks (NB).
     NB: 03_data-analysis
 4. Try some simple forecasts methods<br/>
     NB: 04_simple-forecast
-5. TBD
+5. Try to forcase with machine learning<br/>
+    NB: 05_ml-forecast
 
 ## Reference
 
 * https://github.com/prouast/coinmarketcap-scraper
 * https://github.com/jhogan4288/coinmarketcap-history
-* https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
