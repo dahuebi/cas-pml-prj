@@ -13,3 +13,6 @@ pyramid-arima
 seaborn
 keras
 tensorflow
+cssselect
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
